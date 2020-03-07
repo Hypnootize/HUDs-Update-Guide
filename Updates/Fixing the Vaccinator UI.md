@@ -12,5 +12,7 @@ First I would suggest getting the new charge bars in the desired position by usi
 
 ## Resistance icon
 
-Last thing is the resistance icon positioning ![Screenshot](https://raw.githubusercontent.com/Hypnootize/Huds-Update-Guide/master/Images/Resistance.png), again to move it we are going to use the "xpos" and "ypos" of "ResistIconAnchor".
+![Screenshot](https://raw.githubusercontent.com/Hypnootize/Huds-Update-Guide/master/Images/Resistance.png)
+
+Last thing is the resistance icon positioning, again to move it we are going to use the "xpos" and "ypos" of "ResistIconAnchor".
 If we want to resize it, we need to change the "wide" and "tall" values of "ResistIcon", keep in mind they need to be the same or it will look really bad.
