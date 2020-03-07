@@ -49,7 +49,7 @@ If you did that correctly, you should now be able to click on the Notification a
 
 ![Screenshot](https://raw.githubusercontent.com/Hypnootize/Huds-Update-Guide/master/Images/Badge.png)
 
-First of all lets copy the new codes from [HERE](https://raw.githubusercontent.com/Hypnootize/Hud-Update-Guide/master/Files/[MainMenuOverride]%20Additions.txt) and add them to our MainMenuOverride.res
+First of all lets copy the new codes from [HERE](https://raw.githubusercontent.com/Hypnootize/Huds-Update-Guide/master/Files/%5BMainMenuOverride%5D%20Additions.txt) and add them to our MainMenuOverride.res
 We can paste all of the text just after the "SaxxySettings" code as shown here:
 
 ![Screenshot](https://raw.githubusercontent.com/Hypnootize/Huds-Update-Guide/master/Images/Menu_Codes.png)
@@ -64,7 +64,7 @@ By importing these codes, we added:
 * Casual/Comp toggle button ("CycleRankTypeButton")
 
 You can edit the xpos, ypos and the other values for each of these new codes in order to get them wherever you want in the menu and change their look!
-Sadly, each menu is different so I can’t really help on that, but I’ll leave these [2 PRESETS](https://raw.githubusercontent.com/Hypnootize/Hud-Update-Guide/master/Files/[MainMenuOverride]%20Friend%20Panel%20Presets.txt) for the Steam Friendlist here, both work by default with any hud :)
+Sadly, each menu is different so I can’t really help on that, but I’ll leave these [2 PRESETS](https://raw.githubusercontent.com/Hypnootize/Huds-Update-Guide/master/Files/%5BMainMenuOverride%5D%20Friend%20Panel%20Presets.txt) for the Steam Friendlist here, both work by default with any hud :)
 
 ![Screenshot](https://raw.githubusercontent.com/Hypnootize/Huds-Update-Guide/master/Images/Friends_Right.png)
 ![Screenshot](https://raw.githubusercontent.com/Hypnootize/Huds-Update-Guide/master/Images/Friends_Bottom_Right.png)
