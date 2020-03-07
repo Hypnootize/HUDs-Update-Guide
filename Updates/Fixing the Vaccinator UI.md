@@ -2,7 +2,7 @@
 
 We are working on **resource/ui/HudMedicCharge.res**
 
-[HERE](https://raw.githubusercontent.com/Hypnootize/Hud-Update-Guide/master/Files/[HudMedicCharge]%20Vaccinator.txt) is the new codes we need to add at the end of our HudMedicCharge.res
+[HERE](https://raw.githubusercontent.com/Hypnootize/Huds-Update-Guide/master/Files/%5BHudMedicCharge%5D%20Vaccinator.txt) is the new codes we need to add at the end of our HudMedicCharge.res
 
 ## Fixing the charge bars
 
