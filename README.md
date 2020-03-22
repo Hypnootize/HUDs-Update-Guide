@@ -69,5 +69,5 @@ First of all, if you are interested in learning on how to create huds or you hav
 * [JarateKing's hud references](https://github.com/JarateKing/TF2-Hud-Reference)
 * [Doodle's hud resources](http://doodlesstuff.com/?p=tf2hud)
 * [Raysfire's video tutorials](https://www.youtube.com/playlist?list=PL5eNrB8RrXXuV3P1nv6NnwF-tCL_KnJIs)
-* [Hypnotize's huds megalist](https://github.com/Hypnootize/TF2-Huds-Megalist/blob/master/Huds%20List.md)
+* [Hypnotize's huds megalist](https://github.com/Hypnootize/TF2-Huds-Megalist)
 * [Clovervidia's captions guide](https://github.com/clovervidia/clovervidias-captions)
