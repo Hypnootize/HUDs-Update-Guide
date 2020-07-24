@@ -25,7 +25,7 @@ Basically we can replace everything after "tabposition" "0" with these values th
 These values are the most generic values I could find and they work perfectly with most of the huds.
 But there might be cases where the ping or any other value is getting cut off, so all you need to do is increase that value until you can see it entirely!
 
-## Preventing the stats from turning white
+## Preventing the stats from turning green
 
 This is a completly optional thing but I'm covering it as a lot of people asked me about this!
 Some user don't like the fact that their stats turn green when active so to prevent it and keep the intended color from the hud we can edit the "fieldname" of each stat entry.
