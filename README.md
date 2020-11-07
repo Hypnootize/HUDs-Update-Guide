@@ -20,9 +20,9 @@ Also consider downloading and using [Notepad++](https://notepad-plus-plus.org/do
 These are a must do in order to make the hud launch/work properly and reduce the crash chances to none!
 
 * [Add the Info.vdf file](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Adding%20the%20info.vdf.md) *(MYM/Jungle Update 2016 -2017)*
-* [Update the Animations](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Updating%20the%20Animations.md) *(relase – current day)*
-* [Update the HudLayout](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Updating%20the%20HudLayout.md) *(relase – current day)*
-* [Update the Clientscheme](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Updating%20the%20ClientScheme.md) *(relase – current day)*
+* [Update the Animations](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Updating%20the%20Animations.md) *(release – current day)*
+* [Update the HudLayout](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Updating%20the%20HudLayout.md) *(release – current day)*
+* [Update the Clientscheme](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Updating%20the%20ClientScheme.md) *(release – current day)*
 * [Remove all the outdated files that might cause crashes](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Removing%20Outdated%20and%20Uneeded%20Files.md) *(MYM Update 2016)*
 
 ## MAIN UPDATES
@@ -40,7 +40,7 @@ This section also covers some smaller stuff that not everybody will feel the nee
 
 * [Add a killstreak counter if missing](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Adding%20a%20Killstreak%20Counter.md) 
 * [Add a 3D Player Model if missing](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Adding%20a%203D%20Player%20Model.md) 
-* [Add the missing status icons](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Adding%20Missing%20Status%20Icons.md) *(relase – current day)*
+* [Add the missing status icons](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Adding%20Missing%20Status%20Icons.md) *(release – current day)*
 * [Add the support for the new war paints menu](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Adding%20War%20Paints%20Support.md) *(Jungle Inferno Update 2017)*
 * [Fix the NEW ITEM FOUND Panel](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Fixing%20New%20Item%20Found%20Panel.md) *(Jungle Inferno Update 2017)*
 
