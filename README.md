@@ -37,8 +37,9 @@ This section also covers some smaller stuff that not everybody will feel the nee
 * [Fix the WinPanel](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Fixing%20the%20WinPanel.md) *(MYM Update 2016)*
 * [Fix The Vaccinator UI](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Fixing%20the%20Vaccinator%20UI.md) *(Mecha Update 2012)*
 * [Add the new weapons Meters and Counters](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Adding%20New%20Weapons%20Meters%20and%20Counters.md) *(Jungle Inferno Update 2017)*
+* [Fix the chat positioning](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Fixing%20The%20Chat%20Positioning.md) *(Summer 2020 Update)*
 
-* [Add a killstreak counter if missing](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Adding%20a%20Killstreak%20Counter.md) 
+* [Add a killstreak counter if missing](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Adding%20a%20Killstreak%20Counter.md) *(Two Cities Update 2013)*
 * [Add a 3D Player Model if missing](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Adding%20a%203D%20Player%20Model.md) 
 * [Add the missing status icons](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Adding%20Missing%20Status%20Icons.md) *(release – current day)*
 * [Add the support for the new war paints menu](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Adding%20War%20Paints%20Support.md) *(Jungle Inferno Update 2017)*
@@ -60,14 +61,15 @@ Feel free to report any mistake, broken links and missing parts using Issues or 
 2. Editing files and commiting the changes
 3. Making a pull request!
 
-# Useful TF2 Resources
+# More TF2 Resources
 
-First of all, if you are interested in learning on how to create huds or you have questions about them checkout the [Hud Developement Discord](https://discordapp.com/invite/2tDYJSx) and the [TeamFortress.tv Hud Questions Thread](https://www.teamfortress.tv/19073/hud-editing-short-questions-quick-answers)
+If you are interested in learning on how to create huds or you have questions about them checkout the [HUDS.TF DISCORD](https://discordapp.com/invite/pc9ekye)
 
-## Useful HUD Tutorials, Guides, References:
-
-* [JarateKing's hud references](https://github.com/JarateKing/TF2-Hud-Reference)
-* [Doodle's hud resources](http://doodlesstuff.com/?p=tf2hud)
-* [Raysfire's video tutorials](https://www.youtube.com/playlist?list=PL5eNrB8RrXXuV3P1nv6NnwF-tCL_KnJIs)
-* [Hypnotize's huds megalist](https://github.com/Hypnootize/TF2-Huds-Megalist)
-* [Clovervidia's captions guide](https://github.com/clovervidia/clovervidias-captions)
+* [JarateKing's HUD References](https://github.com/JarateKing/TF2-Hud-Reference)
+* [Raysfire's Video Tutorials](https://www.youtube.com/playlist?list=PL5eNrB8RrXXuV3P1nv6NnwF-tCL_KnJIs)
+* [Revan's HUD Resources List With Images](https://github.com/cooolbros/tf2-res-file-list)
+* [Doodle's HUD Resources](http://doodlesstuff.com/?p=tf2hud)
+* [JarateKing's Base Hud Ready For Development](https://github.com/JarateKing/BaseHud)
+* [Hypnotize's HUD Crosshairs](https://github.com/Hypnootize/TF2-Hud-Crosshairs)
+* [Default TF2 HUD Files](https://github.com/Hypnootize/TF2-Default-Hud)
+* [Clovervidia's Captions Guide](https://github.com/clovervidia/clovervidias-captions)
