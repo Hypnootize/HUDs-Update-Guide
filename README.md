@@ -37,7 +37,7 @@ This section also covers some smaller stuff that not everybody will feel the nee
 * [Fix the WinPanel](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Fixing%20the%20WinPanel.md) *(MYM Update 2016)*
 * [Fix The Vaccinator UI](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Fixing%20the%20Vaccinator%20UI.md) *(Mecha Update 2012)*
 * [Add the new weapons Meters and Counters](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Adding%20New%20Weapons%20Meters%20and%20Counters.md) *(Jungle Inferno Update 2017)*
-* [Fix the chat positioning](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Fixing%20The%20Chat%20Positioning.md) *(Summer 2020 Update)*
+* [Fix the chat positioning](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Fixing%20the%20Chat%20Positioning.md) *(Summer 2020 Update)*
 
 * [Add a killstreak counter if missing](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Adding%20a%20Killstreak%20Counter.md) *(Two Cities Update 2013)*
 * [Add a 3D Player Model if missing](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Adding%20a%203D%20Player%20Model.md) 
