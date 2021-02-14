@@ -1,19 +1,17 @@
 # ADDING THE INFO.VDF
 
-*The info.vdf file is what makes the hud load when you launch TF2, without it the game will always use the Default Hud even if there is a custom hud inside the tf/custom folder.*
+*Every custom TF2 HUD needs the info.vdf file to be able to work, without it TF2 will always use the Default HUD as fallback even if there is a custom HUD inside the tf/custom folder.*
 
-First thing lets take the Info.vdf file from the [Default Hud Files](https://github.com/Hypnootize/TF2-Default-Hud/archive/master.zip) and add it to our hud, it goes in the main hud folder (see note)
+The info.vdf can be downloaded from the [Default HUD Files](https://github.com/Hypnootize/TF2-Default-Hud/archive/master.zip) and added to any custom HUD.
+Once downloaded we want to put the file inside the HUD folder, sitting alongside the Resources and Scripts folders.
 
-Next step lets open the info.vdf file and change the name of it to match the name of the hud folder.
-For example, if the main folder of the hud is named **Hypnotize Hud** I will edit it to look like this:
+If your HUD already featured the info.vdf but the HUD doesn't work make sure the `ui_version` is set to the current supported vaule: `3`
 
 ```
 
-"hypnotize hud"
+"hud"
 {
 	"ui_version"	"3"
 }
 
 ```
-
-*note: for main folder is intended the folder which contains the resource & scripts folders inside*
