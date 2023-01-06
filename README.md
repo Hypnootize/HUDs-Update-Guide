@@ -44,6 +44,7 @@ This section also covers some smaller stuff that not everybody will feel the nee
 * [Add the missing status icons](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Adding%20Missing%20Status%20Icons.md) *(release – current day)*
 * [Add the support for the new war paints menu](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Adding%20War%20Paints%20Support.md) *(Jungle Inferno Update 2017)*
 * [Fix the NEW ITEM FOUND Panel](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Fixing%20New%20Item%20Found%20Panel.md) *(Jungle Inferno Update 2017)*
+* [Fix the missplaced MvM Money](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Fixing%20the%20MvM%20money.md) *(Smissmas Update 2022)*
 
 ## OPTIONAL UPDATES
 
@@ -60,16 +61,3 @@ Feel free to report any mistake, broken links and missing parts using Issues or 
 1. Forking this repository
 2. Editing files and commiting the changes
 3. Making a pull request!
-
-# More TF2 Resources
-
-If you are interested in learning on how to create huds or you have questions about them checkout the [HUDS.TF DISCORD](https://discordapp.com/invite/pc9ekye)
-
-* [JarateKing's HUD References](https://github.com/JarateKing/TF2-Hud-Reference)
-* [Raysfire's Video Tutorials](https://www.youtube.com/playlist?list=PL5eNrB8RrXXuV3P1nv6NnwF-tCL_KnJIs)
-* [Revan's HUD Resources List With Images](https://github.com/cooolbros/tf2-res-file-list)
-* [Doodle's HUD Resources](http://doodlesstuff.com/?p=tf2hud)
-* [JarateKing's Base Hud Ready For Development](https://github.com/JarateKing/BaseHud)
-* [Hypnotize's HUD Crosshairs](https://github.com/Hypnootize/TF2-Hud-Crosshairs)
-* [Default TF2 HUD Files](https://github.com/Hypnootize/TF2-Default-Hud)
-* [Clovervidia's Captions Guide](https://github.com/clovervidia/clovervidias-captions)
