@@ -45,6 +45,7 @@ This section also covers some smaller stuff that not everybody will feel the nee
 * [Add the support for the new war paints menu](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Adding%20War%20Paints%20Support.md) *(Jungle Inferno Update 2017)*
 * [Fix the NEW ITEM FOUND Panel](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Fixing%20New%20Item%20Found%20Panel.md) *(Jungle Inferno Update 2017)*
 * [Fix the missplaced MvM Money](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Fixing%20the%20MvM%20money.md) *(Smissmas Update 2022)*
+* [Fix the invisible loadout/backpack menus](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Fixing%20the%20Invisible%20Loadouts.md) *(64BIT Update 2024)*
 
 ## OPTIONAL UPDATES
 
