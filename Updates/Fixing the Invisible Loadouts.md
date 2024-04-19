@@ -1,6 +1,6 @@
 # FIXING THE INVISIBLE LOADOUTS
 
-![Screenshot](https://raw.githubusercontent.com/Hypnootize/Huds-Update-Guide/master/Images/Loadouts_Invisible.jpg)
+![Screenshot](https://raw.githubusercontent.com/Hypnootize/Huds-Update-Guide/master/Images/Loadouts_Invisible.png)
 
 With the April 19 2024 update, which introduced 64Bit for TF2, some menus such as loadout, backpack and more will fail to display correctly if the value for `"settitlebarvisible"` inside `Resource/UI/CharInfoPanel.res` is set to `"0"`, effectively making them invisible.
 
