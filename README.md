@@ -54,6 +54,7 @@ Optional updates as the mentioned files will most likely already work fine but t
 * [Fix the CharInfoPanel.res and StorePanel.res Tabs](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Fixing%20the%20CharInfoPanel%20and%20StorePanel%20Tabs.md)
 * [Fix the Spectator Item Panels](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Fixing%20the%20Spectator%20Item%20Panels.md)
 * [Fix the Floating Health Cut-Off Problems](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Fixing%20the%20Floating%20Health%20Cut-Off%20Problems.md)
+* [Fix the Class Selection player model transparency](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Fixing%20the%20Class%20Selection%20player%20model%20transparency.md)
 
 # Reports
 
