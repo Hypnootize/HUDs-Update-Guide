@@ -1,7 +1,7 @@
 # UPDATING THE HUDLAYOUT
 
 The first thing we need to do is lauch TF2 and open the console to look for errors.
-What we are looking for are the errors that say "hud elemet" ... "doesn’t have an entry" ... "in scripts/HudLayout.res"
+What we are looking for are the errors that say "Hud element" ...' "doesn't have an entry" ... "in scripts/HudLayout.res"
 
 ![Screenshot](https://raw.githubusercontent.com/Hypnootize/Huds-Update-Guide/master/Images/HudLayout_Errors.png)
 
@@ -17,3 +17,11 @@ What we need to do is:
 ![Screenshot](https://raw.githubusercontent.com/Hypnootize/Huds-Update-Guide/master/Images/HudLayout_Fix.png)
 
 Repeat the steps for each one of the errors the console displays.
+
+**Special Case Changes (Optional):**
+
+In the spirit of keeping the HUD layout file clean, some entries that have been removed or renamed can be updated as such:
+
+ - `CTFKillStreakNotice` should be renamed to `CTFStreakNotice`
+ - `HudDamageIndicator` should be modified to be an empty entry
+ - `MatchMakingContainer` should be removed
